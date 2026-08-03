@@ -1,8 +1,3 @@
-Macro.new("sennya")
-    .withName("Sennya's macros")
-    .withIcon("f1b7")
-    .add()
-
 Macro.new("removeTrace")
     .withName("Remove Trace")
     .withIcon("e9e9")
