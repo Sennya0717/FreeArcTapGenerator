@@ -1,4 +1,4 @@
 Macro.new("sennya")
     .withName("Sennya's macros")
-    .withIcon("f1b7")
+    .withIcon("e2c7")
     .add()
